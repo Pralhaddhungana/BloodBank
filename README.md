@@ -10,3 +10,5 @@ Install git
   or
   
 Download Zip file and store it inside Xampp/htdocs folder
+  
+Run from localhost
